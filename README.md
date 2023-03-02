@@ -11,6 +11,11 @@
 2.
 3.
 
-![Блок-схема](Example_001/diagram.drawio.png)
+[Блок-схема](Example_001/diagram.drawio.png)
 
 [Код](Example_001/Program.cs)
+
+ -Example_002
+
+Условие:
+Определить количество цифр в числе
